@@ -4,8 +4,13 @@ public class democasting {
       //Implicit Conversion 
       //(Byte into Int)
       //New file
-      byte b= 89;
-     int a=b;
-     System.out.println(b);
+    //   byte b= 89;
+    //  int a=b;
+    //  System.out.println(b);
+     // chartaer to init
+      char c = 's';
+      int i = c;
+      System.out.println(i);
+
    }
 }
